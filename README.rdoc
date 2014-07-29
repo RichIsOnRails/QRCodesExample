@@ -1,0 +1,3 @@
+== QRCodesExampleApp
+
+See http://richonrails.com/articles/generating-qr-codes-in-your-ruby-on-rails-application for details
